@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "33e4f5a0-95f2-fd1d-1b75-80717e16d3e0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Software Studio",
+  "course_description": "This course on software engineering covers design and implementation of medium-scale software systems, using web applications as a platform. In the course, students learn the fundamentals of structuring a web application and writing modular code, with an emphasis on conceptual design to achieve clarity, simplicity, and modularity. Topics also include functional programming, relational databases, and security.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.170",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
